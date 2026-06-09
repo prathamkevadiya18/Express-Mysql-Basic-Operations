@@ -98,6 +98,6 @@ function display() {
    cselect();
    userprot();
    upinsert();
-  cjoin();
+   cjoin();
 }
 display();

@@ -1,0 +1,12 @@
+{
+  "name": "only-sql-with-nodejs",
+  "version": "1.0.0",
+  "description": "Standalone Node.js script for basic MySQL operations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
